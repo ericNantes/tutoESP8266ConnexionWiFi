@@ -1,7 +1,6 @@
 #include "Arduino.h"
 #include "ESP8266WiFi.h"
 #include "InfoConnexion.h"
-#include "ArduinoOTA.h"
 
 // Définition des entrées/sorties
 #define PIN_LED_ROUGE 5
